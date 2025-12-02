@@ -1,5 +1,7 @@
 # IKEv2-setup
 
+See also: https://github.com/jawj/wireguard-setup
+
 ## Table of contents
 
   * [What?](#what)
